@@ -8,6 +8,7 @@ These are terminal-based guides to learning a new programming concept. Most of t
 ## Raw Builders
 - Workshopper [rvagg/workshopper](https://github.com/rvagg/workshopper)
 - Adventure [substack/adventure](https://github.com/substack/adventure)
+- Browser Menu (web based) [package/browser-menu](https://www.npmjs.com/package/browser-menu)
 
 ## Workshoppers
 - Learnyounode [rvagg/learnyounode](https://github.com/rvagg/learnyounode)
