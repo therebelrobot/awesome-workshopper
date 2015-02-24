@@ -5,6 +5,8 @@ A list of workshopper/adventure-based tutorials for various things. Inspired by 
 
 These are terminal-based guides to learning a new programming concept. Most of these are installed using npm.
 
+I also want to keep a running list of things there *should* be workshoppers for, so anyone wanting to jump in can.
+
 ## Raw Builders
 - Workshopper [rvagg/workshopper](https://github.com/rvagg/workshopper)
 - Adventure [substack/adventure](https://github.com/substack/adventure)
