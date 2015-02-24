@@ -32,7 +32,7 @@ I also want to keep a running list of things there *should* be workshoppers for,
 - Web-based adventures [maxogden/adventure-time](https://github.com/maxogden/adventure-time)
 
 ## Workshopper requests
-List any non-existant, yet wanted, workshoppers here. I may end up making them, or anyone else that wants to can.
+I will list any non-existant, yet wanted, workshoppers here. I may end up making them, or anyone else that wants to can. If you have an idea for a workshopper/adventure, open an issue and I'll add it on.
 
 ### Contribution Guidelines
 If adding a new source, please ensure your pull request adheres to the following guidelines:
