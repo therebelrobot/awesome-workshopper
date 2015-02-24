@@ -34,6 +34,12 @@ I also want to keep a running list of things there *should* be workshoppers for,
 ## Workshopper requests
 I will list any non-existant, yet wanted, workshoppers here. I may end up making them, or anyone else that wants to can. If you have an idea for a workshopper/adventure, open an issue and I'll add it on.
 
+- angular
+- responsive CSS
+- MVCs
+- Hapi
+- Meteor
+
 ### Contribution Guidelines
 If adding a new source, please ensure your pull request adheres to the following guidelines:
 
