@@ -1,16 +1,18 @@
 # awesome-workshopper
+*alternatively, awesome-adventure*
 
-A list of workshopper-based tutorials for various things. Inspired by awesome.
+A list of workshopper/adventure-based tutorials for various things. Inspired by awesome.
 
 These are terminal-based guides to learning a new programming concept. Most of these are installed using npm.
 
-## Original
-- learnyounode [rvagg/learnyounode](https://github.com/rvagg/learnyounode)
-- Streams [substack/stream-adventure](https://github.com/substack/stream-adventure)
-- workshopper [rvagg/workshopper](https://github.com/rvagg/workshopper)
+## Raw Builders
+- Workshopper [rvagg/workshopper](https://github.com/rvagg/workshopper)
+- Adventure [substack/adventure](https://github.com/substack/adventure)
 
-## Others
-- http [Raynos/http-works](https://github.com/Raynos/http-works)
+## Workshoppers
+- Learnyounode [rvagg/learnyounode](https://github.com/rvagg/learnyounode)
+- Streams [substack/stream-adventure](https://github.com/substack/stream-adventure)
+- Http [Raynos/http-works](https://github.com/Raynos/http-works)
 - Express.js [azat-co/expressworks](https://github.com/azat-co/expressworks)
 - Git [jlord/git-it](https://github.com/jlord/git-it)
 - Promises [stevekane/promise-it-wont-hurt](https://github.com/stevekane/promise-it-wont-hurt)
