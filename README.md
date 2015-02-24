@@ -19,6 +19,7 @@ I also want to keep a running list of things there *should* be workshoppers for,
 - Generators [isRuslan/learn-generators](https://github.com/isRuslan/learn-generators)
 - Git [jlord/git-it](https://github.com/jlord/git-it)
 - Http [Raynos/http-works](https://github.com/Raynos/http-works)
+- Johnny-five and Arduino [tableflip/nodebot-workshop](https://github.com/tableflip/nodebot-workshop)
 - Learnyounode [rvagg/learnyounode](https://github.com/rvagg/learnyounode)
 - Levelmeup [rvagg/levelmeup](https://github.com/rvagg/levelmeup)
 - Native Node.js Addons [rvagg/goingnative](https://github.com/rvagg/goingnative)
