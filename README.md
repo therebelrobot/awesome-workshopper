@@ -27,8 +27,7 @@ I also want to keep a running list of things there *should* be workshoppers for,
 | [expressworks](https://github.com/azat-co/expressworks) | an automated Express.js workshop |
 | [footballbot-workshop](https://github.com/alanshaw/footballbot-workshop) | A step by step guide to building your own footballbot (robotics) |
 | [functional-javascript-workshop](https://github.com/timoxley/functional-javascript-workshop) | A functional javascript workshop. No libraries required (i.e. no underscore), just ES5. |
-| [git-it](https://github.com/jlord/git-it) | A workshopper for learning Git and GitHub. The guide → 
-http://jlord.github.io/git-it |
+| [git-it](https://github.com/jlord/git-it) | A workshopper for learning Git and GitHub. |
 | [goingnative](https://github.com/rvagg/goingnative) | Learn how to write native Node.js addons |
 | [how-to-npm](https://github.com/npm/how-to-npm) | A module to teach you how to module. |
 | [http-adventure](https://github.com/yoshuawuyts/http-adventure) | [wip] Learn node's http module. |
@@ -46,13 +45,11 @@ http://jlord.github.io/git-it |
 | [levelmeup](https://github.com/rvagg/levelmeup) | Level Me Up Scotty! An intro to Node.js databases |
 | [lololodash](https://github.com/mdunisch/lololodash) | Lo-Dash Javascript Exercises |
 | [makemehapi](https://github.com/nvcexploder/makemehapi) | Introduction to Hapi |
-| [mongodb-aggregate-adventure](https://github.com/braz/mongodb-aggregate-adventure) | |
-| [mongoose-adventure](https://github.com/fractal/mongoose-adventure) | |
-| [node-debug-school](https://github.com/jgilli/node-debug-school) | |
-| [nodebot-workshop](https://github.com/olizilla/nodebot-workshop) | |
-| [nodebot-workshop](https://github.com/tableflip/nodebot-workshop) | |
-| [nodenext](https://github.com/wyatt/nodenext) | |
-| [nodeready](https://github.com/dshaw/nodeready) | |
+| [mongodb-aggregate-adventure](https://github.com/braz/mongodb-aggregate-adventure) | A series of MongoDB aggregation workshops |
+| [mongoose-adventure](https://github.com/wearefractal/mongoose-adventure) | Introduction to Mongoose |
+| [node-debug-school](https://github.com/joyent/node-debug-school) | nodeschool curriculum for debugging Node.js |
+| [nodebot-workshop](https://github.com/tableflip/nodebot-workshop) | Arduino / Johnny-five (robotics) |
+| [nodenext](https://github.com/geek/nodenext) | Learn about the next version of node |
 | [npm-tutor](https://github.com/timoxley/npm-tutor) | |
 | [oobootcamp](https://github.com/winsonwq/oobootcamp) | |
 | [planetproto](https://github.com/sporto/planetproto) | |
