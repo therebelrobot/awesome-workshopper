@@ -12,7 +12,7 @@ I also want to keep a running list of things there *should* be workshoppers for,
 | Adventure [substack/adventure](https://github.com/substack/adventure)|
 
 ## Workshoppers
-| Project Name  | Description |
+| Module Name  | Description |
 | ------------- | ------------- |
 | [algorithms-101](https://github.com/linclark/algorithms-101) | Introduction to algorithms |
 | [async-you](https://github.com/bulkan/async-you) | Learn to use https://github.com/caolan/async |
@@ -31,10 +31,10 @@ I also want to keep a running list of things there *should* be workshoppers for,
 http://jlord.github.io/git-it |
 | [goingnative](https://github.com/rvagg/goingnative) | Learn how to write native Node.js addons |
 | [how-to-npm](https://github.com/npm/how-to-npm) | A module to teach you how to module. |
-| [http-adventure](https://github.com/yoshuawuyts/http-adventure) | |
-| [http-works](https://github.com/Raynos/http-works) | |
-| [intro-to-node](https://github.com/sherodtaylor/intro-to-node) | |
-| [introtowebgl](https://github.com/alexmackey/introtowebgl) | |
+| [http-adventure](https://github.com/yoshuawuyts/http-adventure) | [wip] Learn node's http module. |
+| [http-works](https://github.com/Raynos/http-works) | http framework |
+| [intro-to-node](https://github.com/sherodtaylor/intro-to-node) | An intro to Node.js  |
+| [introtowebgl](https://github.com/alexmackey/IntroToWebGLWithThreeJS) | Intro to WebGL with three.js |
 | [javascripting-es](https://github.com/a0viedo/javascripting-es) | |
 | [javascripting-jp](https://github.com/ledsun/javascripting-jp) | |
 | [javascripting-vi](https://github.com/chris_mask/javascripting-vi) | |
@@ -79,7 +79,7 @@ http://jlord.github.io/git-it |
 | [zeroone](https://github.com/gxcsoccer/zeroone) | |
 
 ### Additional Tools
-| Project Name  | Description |
+| Module Name  | Description |
 | ------------- | ------------- |
 | [example-adventure](https://github.com/substack/example-adventure) | Forkable starter example for writing nodeschool challenges with adventure |
 | [adventure-map](https://github.com/timoxley/adventure-map) | Simple exercise loader & generators for substack/adventure. |
