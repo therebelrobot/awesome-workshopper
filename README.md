@@ -22,19 +22,15 @@ I also want to keep a running list of things there *should* be workshoppers for,
 | [bug-clinic](https://github.com/othiym23/bug-clinic) | Learn how to debug Node.js apps |
 | [bytewiser](https://github.com/maxogden/bytewiser) | Teaches the fundamentals of working with binary data in node.js and HTML5 browsers |
 | [count-to-6](https://github.com/domenic/count-to-6) | An intro to some ES6 features |
-| [data-plumber](https://github.com/maxogden/data-plumber) | |
-| [demo-workshopper](https://github.com/linclark/demo-workshopper) | |
-| [es5-workshop](https://github.com/timoxley/es5-workshop) | |
-| [example-adventure](https://github.com/substack/example-adventure) | |
-| [expressworks](https://github.com/azat-co/expressworks) | |
-| [expressworks](https://github.com/azat/expressworks) | |
-| [footballbot-workshop](https://github.com/alanshaw/footballbot-workshop) | |
-| [function-workshop](https://github.com/kiddkai/function-workshop) | |
-| [functional-javascript-workshop](https://github.com/timoxley/functional-javascript-workshop) | |
-| [generator-workshopper](https://github.com/mindcookin/generator-workshopper) | |
-| [git-it](https://github.com/jlord/git-it) | |
-| [goingnative](https://github.com/rvagg/goingnative) | |
-| [how-to-npm](https://github.com/isaacs/how-to-npm) | |
+| [data-plumber](https://github.com/maxogden/data-plumber) | Munging data on the command line |
+| [es5-workshop](https://github.com/timoxley/es5-workshop) | Introduction to ES5 methods |
+| [expressworks](https://github.com/azat-co/expressworks) | an automated Express.js workshop |
+| [footballbot-workshop](https://github.com/alanshaw/footballbot-workshop) | A step by step guide to building your own footballbot (robotics) |
+| [functional-javascript-workshop](https://github.com/timoxley/functional-javascript-workshop) | A functional javascript workshop. No libraries required (i.e. no underscore), just ES5. |
+| [git-it](https://github.com/jlord/git-it) | A workshopper for learning Git and GitHub. The guide → 
+http://jlord.github.io/git-it |
+| [goingnative](https://github.com/rvagg/goingnative) | Learn how to write native Node.js addons |
+| [how-to-npm](https://github.com/npm/how-to-npm) | A module to teach you how to module. |
 | [http-adventure](https://github.com/yoshuawuyts/http-adventure) | |
 | [http-works](https://github.com/Raynos/http-works) | |
 | [intro-to-node](https://github.com/sherodtaylor/intro-to-node) | |
@@ -85,9 +81,11 @@ I also want to keep a running list of things there *should* be workshoppers for,
 ### Additional Tools
 | Project Name  | Description |
 | ------------- | ------------- |
+| [example-adventure](https://github.com/substack/example-adventure) | Forkable starter example for writing nodeschool challenges with adventure |
 | [adventure-map](https://github.com/timoxley/adventure-map) | Simple exercise loader & generators for substack/adventure. |
 | [maxogden/adventure-time](https://github.com/maxogden/adventure-time) | Web-based adventures |
 | [package/browser-menu](https://www.npmjs.com/package/browser-menu) | Browser Menu (web based) |
+| [generator-workshopper](https://github.com/mindcookin/generator-workshopper) | Yeoman generator for the marvelous workshopper from nodeschool.io |
 
 ## Workshopper Requests
 I will list any non-existant, yet wanted, workshoppers here. I may end up making them, or anyone else that wants to can. If you have an idea for a workshopper/adventure, open an issue and I'll add it on.
