@@ -35,27 +35,17 @@ http://jlord.github.io/git-it |
 | [http-works](https://github.com/Raynos/http-works) | http framework |
 | [intro-to-node](https://github.com/sherodtaylor/intro-to-node) | An intro to Node.js  |
 | [introtowebgl](https://github.com/alexmackey/IntroToWebGLWithThreeJS) | Intro to WebGL with three.js |
-| [javascripting-es](https://github.com/a0viedo/javascripting-es) | |
-| [javascripting-jp](https://github.com/ledsun/javascripting-jp) | |
-| [javascripting-vi](https://github.com/chris_mask/javascripting-vi) | |
-| [javascripting](https://github.com/sethvincent/javascripting) | |
-| [jsadventure](https://github.com/mk30/jsadventure) | |
-| [kick-off-koa](https://github.com/dead_horse/kick-off-koa) | |
-| [learn-generators](https://github.com/is_ruslan/learn-generators) | |
-| [learn-generators](https://github.com/isRuslan/learn-generators) | |
-| [learnjs](https://github.com/mikeal/learnjs) | |
-| [learnserversidejavascript](https://github.com/jalalhejazi/learnserversidejavascript) | |
-| [learnyoucouchdb](https://github.com/robertkowalski/learnyoucouchdb) | |
-| [learnyoumongodb](https://github.com/braz/learnyoumongodb) | |
-| [learnyounode-jp](https://github.com/leichtgewicht/learnyounode-jp) | |
-| [learnyounode-zh-cn](https://github.com/lisposter/learnyounode-zh-cn) | |
-| [learnyounode-zh-tw](https://github.com/fredchien/learnyounode-zh-tw) | |
-| [learnyounode](https://github.com/rvagg/learnyounode) | |
-| [learnyounode_1and1](https://github.com/haimich/learnyounode_1and1) | |
-| [levelmeup-jp](https://github.com/maxogden/levelmeup-jp) | |
-| [levelmeup](https://github.com/rvagg/levelmeup) | |
-| [lololodash](https://github.com/mdunisch/lololodash) | |
-| [makemehapi](https://github.com/nvcexploder/makemehapi) | |
+| [javascripting](https://github.com/sethvincent/javascripting) | Learn JavaScript by adventuring around in the terminal |
+| [jsadventure](https://github.com/mk30/jsadventure) | Introduction to Javascript. No programming experience needed. |
+| [kick-off-koa](https://github.com/koajs/kick-off-koa) | An intro to koa |
+| [learn-generators](https://github.com/isRuslan/learn-generators) | JavaScript ES(6|2015) generators workshopper. Learn in practice. :metal: |
+| [learnjs](https://github.com/mikeal/learnjs) | Introduction to Javascript |
+| [learnyoucouchdb](https://github.com/robertkowalski/learnyoucouchdb) | Learn you CouchDB for great good! |
+| [learnyoumongodb](https://github.com/braz/learnyoumongodb) | Learn MongoDB using the terminal |
+| [learnyounode](https://github.com/rvagg/learnyounode) | Learn You The Node.js For Much Win! An intro to Node.js |
+| [levelmeup](https://github.com/rvagg/levelmeup) | Level Me Up Scotty! An intro to Node.js databases |
+| [lololodash](https://github.com/mdunisch/lololodash) | Lo-Dash Javascript Exercises |
+| [makemehapi](https://github.com/nvcexploder/makemehapi) | Introduction to Hapi |
 | [mongodb-aggregate-adventure](https://github.com/braz/mongodb-aggregate-adventure) | |
 | [mongoose-adventure](https://github.com/fractal/mongoose-adventure) | |
 | [node-debug-school](https://github.com/jgilli/node-debug-school) | |
