@@ -1,9 +1,7 @@
 # awesome-workshopper
 *alternatively, awesome-adventure*
 
-A list of workshopper/adventure-based tutorials for various things. Inspired by awesome.
-
-These are terminal-based guides to learning a new programming concept. Most of these are installed using npm.
+A list of workshopper/adventure-based tutorials for various things. Inspired by awesome. These are terminal-based guides to learning a new programming concept.
 
 I also want to keep a running list of things there *should* be workshoppers for, so anyone wanting to jump in can.
 
@@ -32,11 +30,11 @@ I also want to keep a running list of things there *should* be workshoppers for,
 ### Additional Tools
 - Web-based adventures [maxogden/adventure-time](https://github.com/maxogden/adventure-time)
 
-## Workshopper requests
+## Workshopper Requests
 I will list any non-existant, yet wanted, workshoppers here. I may end up making them, or anyone else that wants to can. If you have an idea for a workshopper/adventure, open an issue and I'll add it on.
 
-- angular
-- responsive CSS
+- Angular
+- Responsive CSS
 - MVCs
 - Hapi
 - Meteor
