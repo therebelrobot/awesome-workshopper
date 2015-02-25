@@ -11,17 +11,14 @@ I also want to keep a running list of things there *should* be workshoppers for,
 - Browser Menu (web based) [package/browser-menu](https://www.npmjs.com/package/browser-menu)
 
 ## Workshoppers
-- [adventure-map](https://github.com/timoxley/adventure-map)
-- [algorithms-101](https://github.com/linclark/algorithms-101)
-- [async-you](https://github.com/bulkan/async-you)
-- [bacon-love](https://github.com/mikaelb/bacon-love)
-- [biohacker](https://github.com/bmpvieira/biohacker)
-- [browserify-adventure-jp](https://github.com/maxogden/browserify-adventure-jp)
-- [browserify-adventure](https://github.com/substack/browserify-adventure)
-- [bug-clinic](https://github.com/othiym23/bug-clinic)
-- [bytewiser](https://github.com/maxogden/bytewiser)
-- [constructor-workshop](https://github.com/kiddkai/constructor-workshop)
-- [count-to-6](https://github.com/domenic/count-to-6)
+- [algorithms-101](https://github.com/linclark/algorithms-101) Introduction to algorithms
+- [async-you](https://github.com/bulkan/async-you) Learn to use https://github.com/caolan/async
+- [bacon-love](https://github.com/mikaelbr/bacon-love) Functional Reactive Programming and Bacon.js
+- [biohacker](https://github.com/bionode/biohacker) Gives some usage examples of bionode for bioinformatics
+- [browserify-adventure](https://github.com/substack/browserify-adventure) Learn browserify
+- [bug-clinic](https://github.com/othiym23/bug-clinic) Learn how to debug Node.js apps
+- [bytewiser](https://github.com/maxogden/bytewiser) Teaches the fundamentals of working with binary data in node.js and HTML5 browsers
+- [count-to-6](https://github.com/domenic/count-to-6) An intro to some ES6 features
 - [data-plumber](https://github.com/maxogden/data-plumber)
 - [demo-workshopper](https://github.com/linclark/demo-workshopper)
 - [es5-workshop](https://github.com/timoxley/es5-workshop)
@@ -83,6 +80,7 @@ I also want to keep a running list of things there *should* be workshoppers for,
 - [zeroone](https://github.com/gxcsoccer/zeroone)
 
 ### Additional Tools
+- [adventure-map](https://github.com/timoxley/adventure-map) Simple exercise loader & generators for substack/adventure.
 - Web-based adventures [maxogden/adventure-time](https://github.com/maxogden/adventure-time)
 
 ## Workshopper Requests
