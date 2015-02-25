@@ -6,9 +6,10 @@ A list of workshopper/adventure-based tutorials for various things. Inspired by 
 I also want to keep a running list of things there *should* be workshoppers for, so anyone wanting to jump in can.
 
 ## Raw Builders
-- Workshopper [rvagg/workshopper](https://github.com/rvagg/workshopper)
-- Adventure [substack/adventure](https://github.com/substack/adventure)
-- Browser Menu (web based) [package/browser-menu](https://www.npmjs.com/package/browser-menu)
+| Project Name  |
+| ------------- |
+| Workshopper [rvagg/workshopper](https://github.com/rvagg/workshopper) |
+| Adventure [substack/adventure](https://github.com/substack/adventure)|
 
 ## Workshoppers
 | Project Name  | Description |
@@ -82,8 +83,11 @@ I also want to keep a running list of things there *should* be workshoppers for,
 | [zeroone](https://github.com/gxcsoccer/zeroone) | |
 
 ### Additional Tools
+| Project Name  | Description |
+| ------------- | ------------- |
 | [adventure-map](https://github.com/timoxley/adventure-map) | Simple exercise loader & generators for substack/adventure. |
-| Web-based adventures [maxogden/adventure-time](https://github.com/maxogden/adventure-time) | |
+| [maxogden/adventure-time](https://github.com/maxogden/adventure-time) | Web-based adventures |
+| [package/browser-menu](https://www.npmjs.com/package/browser-menu) | Browser Menu (web based) |
 
 ## Workshopper Requests
 I will list any non-existant, yet wanted, workshoppers here. I may end up making them, or anyone else that wants to can. If you have an idea for a workshopper/adventure, open an issue and I'll add it on.
