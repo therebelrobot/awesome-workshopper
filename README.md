@@ -69,10 +69,10 @@ If you know of any other workshopper/adventure tutorials, feel free to fork/PR o
 | Module Name  | Description |
 | ------------- | ------------- |
 | [adventure-map](https://github.com/timoxley/adventure-map) | Simple exercise loader & generators for substack/adventure. |
+| [adventure-time](https://github.com/maxogden/adventure-time) | Web-based adventures |
+| [browser-menu](https://www.npmjs.com/package/browser-menu) | Browser Menu (web based) |
 | [example-adventure](https://github.com/substack/example-adventure) | Forkable starter example for writing nodeschool challenges with adventure |
 | [generator-workshopper](https://github.com/mindcookin/generator-workshopper) | Yeoman generator for the marvelous workshopper from nodeschool.io |
-| [maxogden/adventure-time](https://github.com/maxogden/adventure-time) | Web-based adventures |
-| [package/browser-menu](https://www.npmjs.com/package/browser-menu) | Browser Menu (web based) |
 
 ## Workshopper Requests
 Any wishes for workshopper topics go here. I may end up making them, or, if you're feeling adventurous, make it yourself then open a PR for your new list addition. If you have an idea for a workshopper/adventure, open an issue and I'll add it on.
