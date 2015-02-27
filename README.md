@@ -1,15 +1,17 @@
 # awesome-workshopper
 *alternatively, awesome-adventure*
 
-A list of workshopper/adventure-based tutorials for various things. Inspired by awesome. These are terminal-based guides to learning a new programming concept.
+A list of workshopper/adventure-based tutorials for various things. Inspired by awesome. These are terminal-based guides to learning a new programming concept. Here's a screenshot from rvagg's [learnyounode](https://github.com/rvagg/learnyounode):
 
-I also want to keep a running list of things there *should* be workshoppers for, so anyone wanting to jump in can.
+![Learn You The Node.js For Much Win!](https://raw.github.com/rvagg/learnyounode/master/learnyounode.png)
+
+If you know of any other workshopper/adventure tutorials, feel free to fork/PR or open a new issue. This list will also serve as a wish-list of types: if you want a workshopper that is not listed here, open a pull request and I'll see about getting it started. 
 
 ## Raw Builders
 | Project Name  |
 | ------------- |
-| Workshopper [rvagg/workshopper](https://github.com/rvagg/workshopper) |
 | Adventure [substack/adventure](https://github.com/substack/adventure)|
+| Workshopper [rvagg/workshopper](https://github.com/rvagg/workshopper) |
 
 ## Workshoppers
 | Module Name  | Description |
@@ -66,17 +68,16 @@ I also want to keep a running list of things there *should* be workshoppers for,
 ### Additional Tools
 | Module Name  | Description |
 | ------------- | ------------- |
-| [example-adventure](https://github.com/substack/example-adventure) | Forkable starter example for writing nodeschool challenges with adventure |
 | [adventure-map](https://github.com/timoxley/adventure-map) | Simple exercise loader & generators for substack/adventure. |
+| [example-adventure](https://github.com/substack/example-adventure) | Forkable starter example for writing nodeschool challenges with adventure |
+| [generator-workshopper](https://github.com/mindcookin/generator-workshopper) | Yeoman generator for the marvelous workshopper from nodeschool.io |
 | [maxogden/adventure-time](https://github.com/maxogden/adventure-time) | Web-based adventures |
 | [package/browser-menu](https://www.npmjs.com/package/browser-menu) | Browser Menu (web based) |
-| [generator-workshopper](https://github.com/mindcookin/generator-workshopper) | Yeoman generator for the marvelous workshopper from nodeschool.io |
 
 ## Workshopper Requests
-I will list any non-existant, yet wanted, workshoppers here. I may end up making them, or anyone else that wants to can. If you have an idea for a workshopper/adventure, open an issue and I'll add it on.
+Any wishes for workshopper topics go here. I may end up making them, or, if you're feeling adventurous, make it yourself then open a PR for your new list addition. If you have an idea for a workshopper/adventure, open an issue and I'll add it on.
 
 - Angular
-- Responsive CSS
 - MVCs
 - Hapi
 - Meteor
@@ -84,12 +85,10 @@ I will list any non-existant, yet wanted, workshoppers here. I may end up making
 ### Contribution Guidelines
 If adding a new source, please ensure your pull request adheres to the following guidelines:
 
-* Please search previous suggestions before making a new one, as yours may be a duplicate.
 * Please make an individual pull request (or Github issue) for each suggestion.
-* Use the following format: \[RESOURCE\]\(LINK\) - OPTIONAL DESCRIPTION
-* Keep descriptions short and simple.
+* Use the following format: `| [resource](link) | description |`
+* Keep descriptions short and simple. Normally the repo's description will suffice.
 * Order projects alphabetically within each category.
-* Check your spelling and grammar.
 * New categories, or improvements to the existing categorisation are welcome.
 
 Thank you for your suggestions!
