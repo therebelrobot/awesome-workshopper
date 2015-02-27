@@ -51,15 +51,15 @@ I also want to keep a running list of things there *should* be workshoppers for,
 | [nodebot-workshop](https://github.com/tableflip/nodebot-workshop) | Arduino / Johnny-five (robotics) |
 | [nodenext](https://github.com/geek/nodenext) | Learn about the next version of node |
 | [npm-tutor](https://github.com/timoxley/npm-tutor) | npm tutor for nodeconf 2014 |
-| [oobootcamp](https://github.com/winsonwq/oobootcamp) | |
+| [oobootcamp](https://github.com/winsonwq/OOBootcamp.js) | Object-Oriented JavaScript Bootcamp |
 | [planetproto](https://github.com/sporto/planetproto) | Understanding JavaScript Prototypes |
 | [promise-it-wont-hurt](https://github.com/stevekane/promise-it-wont-hurt) | A Workshopper module that teaches you to use promises in javascript |
 | [secureyournode](https://github.com/someoneweird/secureyournode) | Security workshop |
 | [security-adventure](https://github.com/toolness/security-adventure) | Go on an educational Web security adventure! |
 | [stream-adventure](https://github.com/substack/stream-adventure) | go on an educational stream adventure! |
-| [stylist-workshop](https://github.com/alanshaw/stylist-workshop) | |
+| [stylist-workshop](https://github.com/alanshaw/stylist) | Introduction to CSS |
 | [tapeshopper](https://github.com/tomgco/tapeshopper) | Learn how to test with tape! (tap-producing test harness for node) |
-| [test-anything](https://github.com/finnpauls/test-anything) | |
+| [test-anything](https://github.com/finnp/test-anything) | Introduction to testing |
 | [thinking-in-react](https://github.com/asbjornenge/thinking-in-react) | Introduction to React |
 | [unix-adventure](https://github.com/substack/unix-adventure) | become a unix wizard |
 
