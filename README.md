@@ -39,7 +39,7 @@ If you know of any other workshopper/adventure tutorials, feel free to fork/PR o
 | [javascripting](https://github.com/sethvincent/javascripting) | Learn JavaScript by adventuring around in the terminal |
 | [jsadventure](https://github.com/mk30/jsadventure) | Introduction to Javascript. No programming experience needed. |
 | [kick-off-koa](https://github.com/koajs/kick-off-koa) | An intro to koa |
-| [learn-generators](https://github.com/isRuslan/learn-generators) | JavaScript ES(6|2015) generators workshopper. Learn in practice. :metal: |
+| [learn-generators](https://github.com/isRuslan/learn-generators) | JavaScript ES(6\|2015) generators workshopper. Learn in practice. :metal: |
 | [learnjs](https://github.com/mikeal/learnjs) | Introduction to Javascript |
 | [learnyoucouchdb](https://github.com/robertkowalski/learnyoucouchdb) | Learn you CouchDB for great good! |
 | [learnyoumongodb](https://github.com/braz/learnyoumongodb) | Learn MongoDB using the terminal |
