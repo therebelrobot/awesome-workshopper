@@ -60,6 +60,7 @@ If you know of any other workshopper/adventure tutorials, feel free to fork/PR o
 | [security-adventure](https://github.com/toolness/security-adventure) | Go on an educational Web security adventure! |
 | [stream-adventure](https://github.com/substack/stream-adventure) | go on an educational stream adventure! |
 | [stylist-workshop](https://github.com/alanshaw/stylist) | Introduction to CSS |
+| [swirl](https://github.com/swirldev/swirl) | Learn the statistical computing and graphics programming language R, in R |
 | [tapeshopper](https://github.com/tomgco/tapeshopper) | Learn how to test with tape! (tap-producing test harness for node) |
 | [test-anything](https://github.com/finnp/test-anything) | Introduction to testing |
 | [thinking-in-react](https://github.com/asbjornenge/thinking-in-react) | Introduction to React |
