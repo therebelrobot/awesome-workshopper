@@ -1,7 +1,7 @@
 # awesome-workshopper [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 *alternatively, awesome-adventure*
 
-A list of workshopper/adventure-based tutorials for various things. Inspired by awesome. These are terminal-based guides to learning a new programming concept. Here's an example screenshot from rvagg's [learnyounode](https://github.com/rvagg/learnyounode):
+A list of workshopper/adventure-based tutorials for various things. Inspired by awesome. These are terminal-based guides to learning a new programming concept. Here's an example screenshot from rvagg's [learnyounode](https://github.com/workshopper/learnyounode):
 
 ![Learn You The Node.js For Much Win!](https://raw.github.com/rvagg/learnyounode/master/learnyounode.png)
 
@@ -11,7 +11,7 @@ If you know of any other workshopper/adventure tutorials, feel free to fork/PR o
 | Project Name  |
 | ------------- |
 | Adventure [substack/adventure](https://github.com/substack/adventure)|
-| Workshopper [rvagg/workshopper](https://github.com/rvagg/workshopper) |
+| Workshopper [rvagg/workshopper](https://github.com/workshopper/workshopper) |
 
 ## Workshoppers
 | Module Name  | Description |
@@ -30,7 +30,7 @@ If you know of any other workshopper/adventure tutorials, feel free to fork/PR o
 | [footballbot-workshop](https://github.com/alanshaw/footballbot-workshop) | A step by step guide to building your own footballbot (robotics) |
 | [functional-javascript-workshop](https://github.com/timoxley/functional-javascript-workshop) | A functional javascript workshop. No libraries required (i.e. no underscore), just ES5. |
 | [git-it](https://github.com/jlord/git-it) | A workshopper for learning Git and GitHub. |
-| [goingnative](https://github.com/rvagg/goingnative) | Learn how to write native Node.js addons |
+| [goingnative](https://github.com/workshopper/goingnative) | Learn how to write native Node.js addons |
 | [how-to-npm](https://github.com/npm/how-to-npm) | A module to teach you how to module. |
 | [http-adventure](https://github.com/yoshuawuyts/http-adventure) | [wip] Learn node's http module. |
 | [http-works](https://github.com/Raynos/http-works) | http framework |
@@ -43,8 +43,8 @@ If you know of any other workshopper/adventure tutorials, feel free to fork/PR o
 | [learnjs](https://github.com/mikeal/learnjs) | Introduction to Javascript |
 | [learnyoucouchdb](https://github.com/robertkowalski/learnyoucouchdb) | Learn you CouchDB for great good! |
 | [learnyoumongodb](https://github.com/braz/learnyoumongodb) | Learn MongoDB using the terminal |
-| [learnyounode](https://github.com/rvagg/learnyounode) | Learn You The Node.js For Much Win! An intro to Node.js |
-| [levelmeup](https://github.com/rvagg/levelmeup) | Level Me Up Scotty! An intro to Node.js databases |
+| [learnyounode](https://github.com/workshopper/learnyounode) | Learn You The Node.js For Much Win! An intro to Node.js |
+| [levelmeup](https://github.com/workshopper/levelmeup) | Level Me Up Scotty! An intro to Node.js databases |
 | [lololodash](https://github.com/mdunisch/lololodash) | Lo-Dash Javascript Exercises |
 | [makemehapi](https://github.com/nvcexploder/makemehapi) | Introduction to Hapi |
 | [mongodb-aggregate-adventure](https://github.com/braz/mongodb-aggregate-adventure) | A series of MongoDB aggregation workshops |
