@@ -66,6 +66,7 @@ If you know of any other workshopper/adventure tutorials, feel free to fork/PR o
 | [thinking-in-react](https://github.com/asbjornenge/thinking-in-react) | Introduction to React |
 | [tower-of-babel](https://github.com/yosuke-furukawa/tower-of-babel) | A tour of the features of Babel.js |
 | [unix-adventure](https://github.com/substack/unix-adventure) | become a unix wizard |
+| [certificationy-cli](https://github.com/certificationy/certificationy-cli) | Symfony Certification |
 
 ### Additional Tools
 | Module Name  | Description |
