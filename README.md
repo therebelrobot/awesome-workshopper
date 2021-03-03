@@ -67,6 +67,10 @@ If you know of any other workshopper/adventure tutorials, feel free to fork/PR o
 | [tower-of-babel](https://github.com/yosuke-furukawa/tower-of-babel) | A tour of the features of Babel.js |
 | [unix-adventure](https://github.com/substack/unix-adventure) | become a unix wizard |
 
+### Other Workshopper Lists
+
+- [NodeSchool](https://nodeschool.io/#workshopper-list)
+
 ### Additional Tools
 | Module Name  | Description |
 | ------------- | ------------- |
